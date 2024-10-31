@@ -329,7 +329,7 @@ Write the script to calculate:
 
 
 
-```{r D1-3_yt-solution, exercise.setup = "D1-setup"}
+```{r D1-3_yt-solution}
 # answer
 
 min(bida_numbers)
@@ -356,7 +356,7 @@ Write the script to generate the summary of `bida_numbers`.
 
 
 
-```{r D2-1_yt-solution, exercise.setup = "D1-setup"}
+```{r D2-1_yt-solution}
 # answer
 
 summary(bida_numbers)
@@ -421,7 +421,7 @@ Using the `anscombe_1` data frame, write the script to calculate:
 
 
 
-```{r E1-3_yt-solution, exercise.setup = "E1"}
+```{r E1-3_yt-solution}
 # answer
 
 min(anscombe_1$x1)
@@ -468,7 +468,7 @@ Using the `anscombe_1` data frame, write the script to calculate:
 
 
 
-```{r E2-1_yt-solution, exercise.setup = "E1"}
+```{r E2-1_yt-solution}
 # answer
 
 cor(anscombe_1$x1, anscombe_1$y1)
